@@ -1,0 +1,1 @@
+I am going to build a grading CLI for managing class rosters and assignment grades. It will save data between sessions, and a CSV export feature to generate reports of students, or class as a whole, and their grades.
