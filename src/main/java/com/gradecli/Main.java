@@ -1,6 +1,10 @@
 package com.gradecli;
 import java.util.Scanner;
 
+/**
+ * handles cli logic, and handles input capture.
+ */
+
 public class Main {
     public static void main(String[] args) {
         GradeManager manager = new GradeManager();
